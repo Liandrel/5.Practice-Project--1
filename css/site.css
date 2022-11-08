@@ -100,3 +100,13 @@ footer {
    padding-left: .67rem;
    padding-right: .67rem;
 }
+
+.menu-category {
+   text-align: center;
+}
+
+.menu-category li {
+   list-style-type: none;
+   margin-bottom: 1.5rem;
+   text-indent: -1rem;
+}
